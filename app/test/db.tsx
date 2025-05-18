@@ -14,7 +14,7 @@ export default function DBTestScreen() {
 
   return (
     <View className="flex-1 items-center justify-center bg-white">
-      <Text className="text-lg mb-4 text-green-950">Bynfi se la come</Text>
+      <Text className="text-lg mb-4 text-green-950">Bynfi se la re come</Text>
 
       <TouchableOpacity
         onPress={handleTest}
