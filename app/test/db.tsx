@@ -20,9 +20,9 @@ export default function DBTestScreen() {
         onPress={handleTest}
         className="bg-black px-6 py-3 rounded-md"
       >
-        <Text className="text-white text-base text-center">
-          Mayonesa
-        </Text>
+      <Text className="text-white text-base text-center">
+        Mayonesa
+      </Text>
       </TouchableOpacity>
     </View>
   );
