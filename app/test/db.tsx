@@ -14,15 +14,16 @@ export default function DBTestScreen() {
 
   return (
     <View className="flex-1 items-center justify-center bg-white">
-      <Text className="text-lg mb-4 text-green-950">Zeyn y facundo se la re contra mega ultra comen como sus viejas a bynfi</Text>
+
+      <Text className="text-lg mb-4 text-green-950">TODOS MENOS YO se la re contra come</Text>
 
       <TouchableOpacity
         onPress={handleTest}
         className="bg-black px-6 py-3 rounded-md"
       >
-        <Text className="text-white text-base text-center">
-          Mayonesa
-        </Text>
+      <Text className="text-white text-base text-center">
+        Mayonesa
+      </Text>
       </TouchableOpacity>
     </View>
   );
